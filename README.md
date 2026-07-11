@@ -53,7 +53,7 @@ Building **Spendly** — a modern personal finance platform.
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,davinci resolve" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop" />
 </p>
 
 ---
