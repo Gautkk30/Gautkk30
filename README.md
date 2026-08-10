@@ -1,28 +1,37 @@
-<!-- Animated header -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=3200&pause=900&color=888888&center=true&vCenter=true&width=520&lines=%24+initializing+profile...;%24+loading+projects...;%24+loading+experience...;%24+system+ready."
+    alt="Terminal initialization"
+  />
+</p>
+
+<h1 align="center">GAUTHAM K K</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0c,100:15803d&height=180&section=header&text=GAUTHAM%20K%20K&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <strong>Computer Science Engineer</strong>
+  &nbsp;·&nbsp;
+  <strong>Frontend Developer</strong>
+  &nbsp;·&nbsp;
+  <strong>Full-Stack Developer</strong>
+  &nbsp;·&nbsp;
+  <strong>UI/UX Enthusiast</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Frontend+Developer;Full-Stack+Developer;UI%2FUX+Enthusiast;Building+things+that+are+actually+fun+to+use" alt="Typing animation" />
+  <sub>Building modern interfaces, useful products, and things worth exploring.</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Gautkk30">
-    <img src="https://img.shields.io/github/followers/Gautkk30?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/Gautkk30">
-    <img src="https://img.shields.io/github/stars/Gautkk30?label=Stars&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/Gautkk30">
-    <img src="https://img.shields.io/github/last-commit/Gautkk30/Gautkk30?style=for-the-badge&label=Profile%20Updated" />
-  </a>
+  <a href="https://github.com/Gautkk30">GitHub</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  LinkedIn
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  Portfolio
 </p>
 
 ---
 
-## 🚀 About Me
+## `01 / ABOUT`
 
 🎓 B.Tech in Computer Science & Engineering (2024–2028)
 
@@ -38,413 +47,222 @@
 
 ⚡ Current Focus
 
-Building Spendly — a modern personal finance platform.
+Building **Spendly** — a modern personal finance platform.
 
 ---
 
-## 🧠 How I Build
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=3500&pause=800&color=666666&center=true&vCenter=true&width=620&lines=IDEA+%E2%86%92+DESIGN+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+REFINE+%E2%86%92+SHIP"
+    alt="Build process"
+  />
+</p>
+
+## `02 / WHAT I BUILD`
+
+I work at the intersection of **engineering, interface design, and interaction**.
 
 ```text
-        IDEA
-          │
-          ▼
-      DESIGN / UX
-          │
-          ▼
-       PROTOTYPE
-          │
-          ▼
-         BUILD
-          │
-          ▼
-        TEST
-          │
-          ▼
-       REFINE
-          │
-          └──────────────► REPEAT
+Frontend        Full-Stack        UI / UX
+   │                │                │
+   └────────────────┼────────────────┘
+                    │
+                    ▼
+              Useful Products
 ```
-
-I care about more than getting something to work.
 
 My projects focus on:
 
-* Clean and responsive interfaces
-* Practical user experience
+* Clean interfaces
+* Responsive experiences
+* Practical UX
 * Interactive details
 * Maintainable architecture
-* Performance
-* Accessibility
 * Continuous refinement
 
 ---
 
-## 🖥️ Developer Terminal
+## `03 / TECH STACK`
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  gautham@github:~$ whoami                                   │
-│                                                             │
-│  Gautham K K                                                │
-│                                                             │
-│  gautham@github:~$ focus                                    │
-│                                                             │
-│  frontend • full-stack • ui/ux                              │
-│                                                             │
-│  gautham@github:~$ currently_building                       │
-│                                                             │
-│  Spendly                                                     │
-│                                                             │
-│  gautham@github:~$ status                                   │
-│                                                             │
-│  ● OPEN TO SOFTWARE DEVELOPMENT INTERNSHIPS                 │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+**Languages**
 
----
+`C` `C++` `Java` `Python` `JavaScript`
 
-## 🛠 Tech Stack
+**Frontend**
 
-### Languages
+`HTML5` `CSS3` `JavaScript` `React` `TypeScript` `Bootstrap`
 
-### Frontend
+**Backend & Database**
 
-### Backend
+`Node.js` `Express` `MongoDB` `MongoDB Atlas` `Firebase`
 
-### Tools
+**APIs & Browser Technologies**
+
+`REST APIs` `OAuth` `iTunes Search API` `GitHub REST API` `Web Audio API` `Media Session API`
+
+**Creative**
+
+`Photoshop` `Lightroom` `DaVinci Resolve`
 
 ---
 
-# 🚀 Featured Projects
+# `04 / FEATURED PROJECTS`
 
-## 💰 Spendly
+## Spendly
 
-A modern personal finance platform designed for effortless money management.
+**Personal Finance Platform**
 
-<!-- Replace with your actual Spendly GIF -->
+A modern finance platform focused on making personal money management simple, visual, and intuitive.
 
-<p align="center">
-  <img src="YOUR_SPENDLY_GIF_URL_HERE" width="850" alt="Spendly demo"/>
-</p>
+**Highlights**
 
-### Features
+`Multi-wallets` · `Analytics` · `Budgets` · `Goals` · `Authentication`
 
-* Secure Authentication
-* Multi Wallet Support
-* Account Management
-* Income & Expense Tracking
-* Budget Planning
-* Interactive Analytics
-* Beautiful Dashboard
-* Responsive UI
-* Dark & Light Themes
+**Stack**
 
-### Engineering Highlights
+`React` `TypeScript` `Node.js` `Express` `MongoDB Atlas`
 
-* User-owned wallet architecture
-* MongoDB Atlas persistence
-* Authentication and user-specific data
-* Wallet and transaction relationships
-* Custom categories
-* Budget and goal management
-* Migration from local mock data to a real database architecture
-* Responsive financial dashboard
-
-Tech Stack
-
-`TypeScript` • `React` • `Node.js` • `Express` • `MongoDB Atlas` • `Google OAuth`
+[View Repository →](https://github.com/Gautkk30)
 
 ---
 
-## 🎵 Musi
+## Musi
 
-A clean and elegant music player web application.
+**Web Music Player**
 
-<!-- Replace with your actual Musi GIF -->
+A lightweight music player combining local audio playback with music search, playlists, themes, and an interactive equalizer.
 
-<p align="center">
-  <img src="YOUR_MUSI_GIF_URL_HERE" width="850" alt="Musi music player demo"/>
-</p>
+**Highlights**
 
-### Features
+`Music Search` · `Playlists` · `Equalizer` · `Themes` · `30s Previews`
 
-* Music Search
-* Playlist Management
-* Audio Player
-* Equalizer
-* Multiple Themes
-* Responsive Design
-* iTunes Search API integration
-* 30-second music previews
+**Stack**
 
-Tech Stack
+`JavaScript` `HTML` `CSS` `Firebase` `iTunes API`
 
-`JavaScript` • `HTML` • `CSS` • `Java` • `Firebase` • `iTunes Search API`
+[View Repository →](https://github.com/Gautkk30)
 
 ---
 
-## 🌐 Portfolio Website
+## Portfolio
 
-An interactive developer portfolio built from scratch to showcase my projects, skills, experience, and frontend development work while also demonstrating my approach to UI/UX and web interactions.
+**Interactive Developer Portfolio**
 
-<!-- Replace with your actual portfolio GIF -->
+A minimal, developer-focused portfolio built from scratch with a custom interaction system and a few hidden surprises.
 
-<p align="center">
-  <img src="YOUR_PORTFOLIO_GIF_URL_HERE" width="900" alt="Portfolio website demo"/>
-</p>
+**Highlights**
 
-### Highlights
+`Command Palette` · `Terminal` · `Case Studies` · `Music Player` · `404 Arcade`
 
-* 🖥️ Custom developer/terminal-inspired design system
-* 📱 Responsive desktop, tablet, and mobile experience
-* 🧩 Interactive project case studies for Spendly and Musi
-* 💡 Interactive technology information popovers
-* ⌘ Command palette for quick navigation
-* 📍 Interactive section progress indicator
-* 📊 GitHub activity visualization using public GitHub events
-* 🌓 Dark & light theme support
-* 💻 Interactive contact terminal
-* `sudo hire me` terminal Easter egg
-* 🎵 Integrated music player with Media Session API
-* 🎮 Custom Space Invaders-style 404 arcade game
-* 🔊 Programmatically generated arcade sound effects using Web Audio API
-* 💾 Persistent arcade sound preferences
-* ✨ Custom micro-interactions and animations
+**Stack**
 
-### Architecture
+`HTML5` `CSS3` `Vanilla JavaScript` `Web APIs`
 
-The portfolio intentionally uses a lightweight:
-
-```text
-HTML5
-   +
-CSS3
-   +
-Vanilla JavaScript
-   +
-Browser APIs
-```
-
-There is no frontend framework or build pipeline for the portfolio itself.
-
-This keeps the project lightweight, dependency-light, easy to deploy, and gives me direct control over the interface and interactions.
-
-### Tech Stack
-
-`HTML5` • `CSS3` • `JavaScript ES6+` • `Web Audio API` • `Media Session API` • `GitHub REST API`
+[View Repository →](https://github.com/Gautkk30)
 
 ---
 
-## 🎮 404 Arcade
+# `05 / ENGINEERING`
 
-The portfolio includes a custom Space Invaders-style 404 experience.
+I enjoy projects where the interesting part isn't just writing the code, but figuring out **why something should work the way it does**.
 
-<!-- Replace with your actual 404 game GIF -->
+Some areas I've worked with:
 
-<p align="center">
-  <img src="YOUR_404_GAME_GIF_URL_HERE" width="800" alt="404 Space Invaders arcade game"/>
-</p>
-
-Features include:
-
-* Enemy waves
-* Shooting
-* Collision detection
-* Score tracking
-* Lives
-* Game-over state
-* Restart functionality
-* Keyboard controls
-* Mobile touch controls
-* Synthesized arcade sound effects
-* Sound toggle
-* Persistent sound preference
-
-Built using:
-
-`HTML5 Canvas` • `JavaScript` • `Web Audio API`
+`Database Architecture` · `Authentication` · `API Integration` · `Browser APIs` · `Responsive UI` · `Interactive Systems`
 
 ---
 
-## 🐛 Interesting Problems I've Solved
-
-### Spendly Database Migration
-
-Moved the application from a local mock-data architecture to a real MongoDB Atlas-backed system while maintaining relationships between users, wallets, transactions, budgets, goals, and other records.
-
-### User-Owned Wallet Architecture
-
-Built a strict wallet architecture where wallets are real user-owned database records instead of hidden/default mock accounts.
-
-### Browser Audio
-
-Built browser-based audio controls and metadata handling using native browser APIs instead of relying entirely on external libraries.
-
-### 404 Arcade Audio
-
-Created the 404 game's sound effects programmatically with the Web Audio API instead of adding external audio assets.
-
-### Interactive Portfolio
-
-Built the portfolio's interactions using vanilla JavaScript while keeping the visual system consistent across navigation, modals, popovers, terminal interactions, themes, and responsive layouts.
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gautkk30&theme=github-compact&hide_border=true&area=true" width="100%" alt="Gautkk30 GitHub activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gautkk30&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" alt="Gautkk30 GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautkk30&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Top languages"/>
-</p>
-
----
-
-## 📈 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gautkk30&theme=github-dark-blue&hide_border=true" alt="Gautkk30 GitHub streak"/>
-</p>
-
----
-
-## 💡 What I'm Interested In
-
-* Frontend Engineering
-* Full Stack Development
-* Product Development
-* UI/UX Design
-* Open Source
-* Scalable Web Applications
-
----
-
-## 🔨 Currently Building
+# `06 / CURRENTLY BUILDING`
 
 ### Spendly
 
-A personal finance platform focused on:
-
 ```text
-Authentication
-     ↓
-User-owned accounts
-     ↓
-Transactions
-     ↓
-Budgets + Goals
-     ↓
-Financial Analytics
+AUTHENTICATION
+      ↓
+USER-OWNED ACCOUNTS
+      ↓
+TRANSACTIONS
+      ↓
+BUDGETS + GOALS
+      ↓
+FINANCIAL ANALYTICS
 ```
 
-The focus is on building a practical application with a clean interface and reliable data architecture.
+A personal finance platform focused on combining a clean interface with reliable data architecture.
 
 ---
 
-## 🧪 What I Learn From Projects
+# `07 / GITHUB ACTIVITY`
 
-Every project is an opportunity to understand something deeper.
-
-```text
-Build
-  ↓
-Find the problem
-  ↓
-Understand the cause
-  ↓
-Fix it properly
-  ↓
-Document the lesson
-  ↓
-Build better next time
-```
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Gautkk30&theme=github-compact&hide_border=true&area=true&custom_title=Activity"
+    width="100%"
+    alt="GitHub activity"
+  />
+</p>
 
 ---
 
-## 📜 Build Log
+# `08 / BUILD LOG`
 
-```text
-2026
+<details>
+<summary><b>2026</b></summary>
 
-[v2.x]
-+ GitHub activity integration
-+ Interactive section progress indicator
-+ Technology popovers
-+ Terminal Easter eggs
-+ Arcade sound effects
-+ Improved 404 experience
-+ Responsive UI refinements
+<br>
 
-[v1.x]
-+ Initial portfolio
-+ Spendly case study
-+ Musi case study
-+ Interactive music player
-+ Developer terminal interface
-```
+**Portfolio**
+
+`+` Interactive progress indicator
+`+` Technology popovers
+`+` GitHub activity
+`+` Terminal interactions
+`+` 404 arcade refinements
+`+` Arcade sound effects
+
+**Spendly**
+
+`+` MongoDB Atlas architecture
+`+` User-owned wallet system
+`+` Financial data architecture
+`+` Authentication improvements
+
+</details>
 
 ---
 
-## 🎮 Easter Eggs
+# `09 / EASTER EGGS`
 
 There are a few hidden details around the portfolio.
 
-Try:
-
 ```text
-sudo hire me
+$ sudo hire me
 ```
 
-And if something goes wrong:
+and maybe:
 
 ```text
-/404
-```
-
-You might find something playable.
-
----
-
-## ⚡ Portfolio Architecture
-
-```text
-┌─────────────────────────────────────┐
-│           PORTFOLIO                 │
-├─────────────────────────────────────┤
-│                                     │
-│  HTML5                              │
-│     │                               │
-│     ▼                               │
-│  CSS3 / Design System               │
-│     │                               │
-│     ▼                               │
-│  Vanilla JavaScript                 │
-│     │                               │
-│     ├── Command Palette             │
-│     ├── Case Studies                │
-│     ├── Tech Popovers               │
-│     ├── Music Player                │
-│     ├── GitHub Activity             │
-│     ├── Theme System                │
-│     └── 404 Arcade                  │
-│                                     │
-└─────────────────────────────────────┘
+$ /404
 ```
 
 ---
 
-## 🤝 Let's Connect
+# `10 / INTERESTS`
 
-![Image](camo.githubusercontent.com)
+`Frontend Engineering`
+`Full-Stack Development`
+`Product Development`
+`UI/UX Design`
+`Open Source`
+`Scalable Web Applications`
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:15803d,100:0a0f0c&height=100&section=footer&animation=fadeIn" width="100%"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4200&pause=1400&color=666666&center=true&vCenter=true&width=500&lines=%24+git+status;%E2%9C%93+working+tree+clean;%24+git+push;%E2%9C%93+keep+building."
+    alt="Terminal footer animation"
+  />
 </p>
 
 <p align="center">
